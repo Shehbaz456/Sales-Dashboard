@@ -21,10 +21,10 @@ function App() {
             <Layout />
           </ProtectedRoute>
               }>
-            <Route index element={<Navigate to="/dashboard" replace />} />
-          <Route path="/dashboard" element={<Dashboard />} />
-          <Route path="/call-logs" element={<CallLogs />} />
-          <Route path="/leads" element={<Leads />} />
+            <Route index element={<Navigate to="dashboard" replace />} />
+          <Route path="dashboard" element={<Dashboard />} />
+          <Route path="call-logs" element={<CallLogs />} />
+          <Route path="leads" element={<Leads />} />
         </Route>
         <Route path="*" element={<Navigate to="/dashboard" replace />} />
       </Routes>
