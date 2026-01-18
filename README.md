@@ -34,6 +34,13 @@ Feature completeness is **not** the primary goal.
 
 ---
 
+### Live Link: https://sales-dashboard-app-one.vercel.app/dashboard
+
+
+### Dashboard Preview
+<img width="1919" height="972" alt="image" src="https://github.com/user-attachments/assets/34d21b0c-cee4-49d4-a025-f94fb2f87949" />
+
+
 ## 🏢 Tenancy Model
 
 ### Supported Tenants
