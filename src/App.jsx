@@ -1,5 +1,5 @@
 import ProtectedRoute from "./components/common/ProtectedRoute.jsx";
-import Layout from "./components/layout/layout.jsx"
+import Layout from "./components/layout/Layout.jsx"
 import AuthProvider from "./context/AuthProvider.jsx";
 import TenantProvider from "./context/TenantProvider.jsx";
 import CallLogs from "./pages/CallLogs.jsx";
